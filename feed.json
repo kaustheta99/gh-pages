@@ -15,13 +15,14 @@
             "title": "Test website",
             "summary": "Noot Noot!",
             "content_html": "<p>Noot Noot!</p>",
+            "image": "https://kaustheta99.github.io/gh-pages/media/posts/1/mclmonaco.jpg",
             "author": {
                 "name": "Kaustav Mandal"
             },
             "tags": [
             ],
             "date_published": "2021-05-27T23:30:39+05:30",
-            "date_modified": "2021-05-27T23:30:39+05:30"
+            "date_modified": "2021-05-27T23:39:09+05:30"
         }
     ]
 }
